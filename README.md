@@ -1,6 +1,8 @@
 # libft
 
-> Grade: `125%`
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![42](https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white)
+![Grade: 125%](https://img.shields.io/badge/Grade-125%25-brightgreen?style=for-the-badge)
 
 Reimplementation of standard C library (libc) functions from scratch and additional useful functions for string manipulation, memory and linked lists into our own library.
 
